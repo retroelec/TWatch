@@ -1,6 +1,8 @@
 # Donkey Kong resp. Crazy Kong theme for LilyGo TWatch S3
 
-<img src="ckong_clock.png" alt="Crazy Kong theme" width="400"/>
+<a href="https://www.youtube.com/shorts/XHoEtxrbJf0">
+  <img src="ckong_clock.png" alt="Crazy Kong theme" width="400"/>
+</a>
 
 ## Create docker image
 
